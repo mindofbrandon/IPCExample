@@ -1,0 +1,7 @@
+use make clean
+
+make
+
+run ./producer
+
+to view string in hex memory in clion go to debug>memory view and search for shm_base
